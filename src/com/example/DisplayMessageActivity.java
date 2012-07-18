@@ -1,0 +1,18 @@
+package com.example;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+/**
+ * Created with IntelliJ IDEA.
+ * User: Terry
+ * Date: 7/18/12
+ * Time: 3:16 PM
+ * To change this template use File | Settings | File Templates.
+ */
+public class DisplayMessageActivity extends Activity {
+    @Override
+    public void onCreate(Bundle savedInstanceState){
+        super.onCreate(savedInstanceState);
+    }
+}
