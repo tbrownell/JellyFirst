@@ -9,6 +9,7 @@ public class MyActivity extends Activity
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
+        //testing commit
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
