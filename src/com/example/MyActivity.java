@@ -8,7 +8,7 @@ import android.widget.EditText;
 
 public class MyActivity extends Activity
 {
-    public final static String EXTRA_MESSAGE = "com.example.myapp.MESSAGE";
+    public final static String EXTRA_MESSAGE = "com.example.MESSAGE";
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState)
